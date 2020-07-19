@@ -1,11 +1,18 @@
 ## Introduction
-|Item|Inforamtion|
-|:--|:--|
-| Current job | CRA / Clinical research associate |
-| Major | Molecular biology, Neurochemistry, Bioinformatics |
-| Degree | Master of Engineering |
-| Language | Japanese, Python, English |
-| Favorite book | What is the nature of life? by Schrödinger |
+|Category|Item|Inforamtion|
+|:--|:--|:--|
+| Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics, Clinical trials, Data science |
+|| Language | Japanese, Python, English |
+|| Where | Japan |
+|| Favorite book | What is the nature of life? by Schrödinger |
+| Work | Current job | CRA / Clinical research associate |
+| Academic | Degree | Master of Engineering (Molecular biology) |
+|| Subject of master's thesis | Protein-protein interaction site analysis to develop a drug for central nervous system injuries
+| Data science | Python | Started learning in 2014 |
+|| R | Learned from 2012 to 2014 |
+|| Editor | Visual Studio Code |
+|| OS | Windows / Windows subsystem for Linux |
+|| Learning | Data science with Python (self-study) / Coursera / edX |
 
 Lisphilar: **Li**fe science + **phi**losophy of science + molecu**lar** biology
 
