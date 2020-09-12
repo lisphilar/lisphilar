@@ -1,4 +1,10 @@
-## Introduction
+[![Twitter @lisphilar](https://img.shields.io/twitter/follow/lisphilar?label=Talk%20with%20Lisphilar&style=social)](https://twitter.com/lisphilar)
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/lisphilar/posts.svg)](http://qiita.com/lisphilar)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/lisphilar/contributions.svg)](http://qiita.com/lisphilar)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/lisphilar/followers.svg)](http://qiita.com/lisphilar)
+                
+Lisphilar: **Li**fe science + **phi**losophy of science + molecu**lar** biology
+
 |Category|Item|Inforamtion|
 |:--|:--|:--|
 | Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics, Clinical trials, Data science |
@@ -14,18 +20,12 @@
 || OS | Windows / Windows subsystem for Linux |
 || Learning | Data science with Python (self-study) / Coursera / edX |
 
-Lisphilar: **Li**fe science + **phi**losophy of science + molecu**lar** biology
-
 ## Product
 I have published the following packages. Please collaborate with me for development!
 
 ### COVID-19 data analysis
 - GitHub/PyPI: [CovsirPhy: Python package for COVID-19 analysis with SIR-derived ODE models](https://github.com/lisphilar/covid19-sir)
 - Kaggle Notebook: [COVID-19 data with SIR model](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model)
-
-
-# SNS
-- [Twitter](https://twitter.com/lisphilar)
 
 # Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
