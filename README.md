@@ -13,6 +13,7 @@ Lisphilar: **Li**fe science + **phi**losophy of science + molecu**lar** biology
 || Favorite book | What is the nature of life? by Schrödinger |
 | Work | Current job | CRA / Clinical research associate |
 | Academic | Degree | Master of Engineering (Molecular biology) |
+|| School | Graduate school of Engineering, YOKOHAMA National University, Japan.|
 || Subject of master's thesis | Protein-protein interaction site analysis to develop a drug for central nervous system injuries
 | Data science | Python | Started learning in 2014 |
 || R | Learned from 2012 to 2014 |
