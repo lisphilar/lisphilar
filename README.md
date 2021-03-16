@@ -3,7 +3,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/lisphilar/contributions.svg)](http://qiita.com/lisphilar)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/lisphilar/followers.svg)](http://qiita.com/lisphilar)
                 
-Lisphilar: **Li**fe science + **phi**losophy of science + molecu**lar** biology
+👨‍💼Work as a clinical research associate and 👨‍💻develop Python project, including CovsirPhy library, as a hobby.
 
 |Category|Item|Inforamtion|
 |:--|:--|:--|
@@ -21,6 +21,8 @@ Lisphilar: **Li**fe science + **phi**losophy of science + molecu**lar** biology
 || OS | Windows / Windows subsystem for Linux |
 || Learning | Data science with Python (self-study) / Coursera / edX |
 
+Lisphilar: **Li**fe science + **phi**losophy of science + molecu**lar** biology
+
 ## Product
 I have published the following packages. Please collaborate with me for development!
 
@@ -35,6 +37,7 @@ I have published the following packages. Please collaborate with me for developm
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisphilar" />
 </a>
+
 
 <!--
 **lisphilar/lisphilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
