@@ -23,11 +23,11 @@
 
 Lisphilar: **Li**fe science + **phi**losophy of science + molecu**lar** biology
 
-## Product
-I have published the following packages. Please collaborate with me for development!
+## Products
+I have published the following libraries and notebooks. Please collaborate with me for development!
 
 ### COVID-19 data analysis
-- GitHub/PyPI: [CovsirPhy: Python package for COVID-19 analysis with SIR-derived ODE models](https://github.com/lisphilar/covid19-sir)
+- GitHub/PyPI: [CovsirPhy: Python library for COVID-19 data analysis with phase-dependent SIR-derived ODE models](https://github.com/lisphilar/covid19-sir)
 - Kaggle Notebook: [COVID-19 data with SIR model](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model)
 
 # Stats
