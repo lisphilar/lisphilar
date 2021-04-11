@@ -30,7 +30,7 @@ I have published the following libraries and notebooks. Please collaborate with 
 - GitHub/PyPI: [CovsirPhy: Python library for COVID-19 data analysis with phase-dependent SIR-derived ODE models](https://github.com/lisphilar/covid19-sir)
 - Kaggle Notebook: [COVID-19 data with SIR model](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model)
 
-# Stats
+## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=lisphilar&count_private=true&show_icons=true" />
 </a>
@@ -38,6 +38,7 @@ I have published the following libraries and notebooks. Please collaborate with 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisphilar" />
 </a>
 
+[![github-chart](https://github-chart.vercel.app/api?user=lisphilar)](https://github.com/rokumura7/github-chart)
 
 <!--
 **lisphilar/lisphilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
