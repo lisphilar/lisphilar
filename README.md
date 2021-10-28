@@ -10,7 +10,7 @@
 | Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics, Clinical trials, Data science |
 || Language | Japanese, Python, English |
 || Where | Japan |
-|| Favorite book | What is the nature of life? by Schrödinger |
+|| Favorite book | What Is Life? by Schrödinger |
 | Work | Current job | CRA / Clinical research associate |
 | Academic | Degree | Master of Engineering (Molecular biology) |
 || School | Graduate school of Engineering, YOKOHAMA National University, Japan.|
