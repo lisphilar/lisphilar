@@ -29,6 +29,7 @@ I have published the following libraries and notebooks. Please collaborate with 
 ### COVID-19 data analysis
 - GitHub/PyPI: [CovsirPhy: Python library for COVID-19 data analysis with phase-dependent SIR-derived ODE models](https://github.com/lisphilar/covid19-sir)
 - Kaggle Notebook: [COVID-19 data with SIR model](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model)
+- Dataset: [COVID-19 dataset in Japan](https://github.com/lisphilar/covid19-sir/tree/main/data)
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
