@@ -7,7 +7,7 @@
 
 |Category|Item|Inforamtion|
 |:--|:--|:--|
-| Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics, Clinical trials, Data science |
+| Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics, Clinical trials, Data science, Japanese history |
 || Language | Japanese, Python, English |
 || Where | Japan |
 || Favorite book | What Is Life? by Schrödinger |
@@ -30,6 +30,10 @@ I have published the following libraries and notebooks. Please collaborate with 
 - GitHub/PyPI: [CovsirPhy: Python library for COVID-19 data analysis with phase-dependent SIR-derived ODE models](https://github.com/lisphilar/covid19-sir)
 - Kaggle Notebook: [COVID-19 data with SIR model](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model)
 - Dataset: [COVID-19 dataset in Japan](https://github.com/lisphilar/covid19-sir/tree/main/data)
+
+### Scenario file of Sengokushi (Japanese)
+
+- GitHub: [豊徳二重公儀の統合](https://github.com/lisphilar/sengokushi)
 
 ## Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
