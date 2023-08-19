@@ -15,8 +15,8 @@
 | Academic | Degree | Master of Engineering (Molecular biology) |
 || School | Graduate school of Engineering, YOKOHAMA National University, Japan.|
 || Subject of master's thesis | Protein-protein interaction site analysis to develop a drug for central nervous system injuries
-| Data science | Python | Started learning in 2014 |
-|| R | Learned from 2012 to 2014 |
+| Data science | Python | From 2014 |
+|| R | Learned from 2012 to 2014, from 2023 |
 || Editor | Visual Studio Code |
 || OS | Windows / Windows subsystem for Linux |
 || Learning | Data science with Python (self-study) / Coursera / edX |
