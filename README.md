@@ -7,7 +7,7 @@
 
 |Category|Item|Inforamtion|
 |:--|:--|:--|
-| Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics,<br>Clinical trials, Clinical data science,<br>Python library evelopment,<br>Japanese history |
+| Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics,<br>Clinical trials, Clinical data science,<br>Python library development,<br>Japanese history |
 || Language | Japanese, Python, English |
 || Where | Japan |
 || Favorite book | What Is Life? by Schrödinger |
