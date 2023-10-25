@@ -7,14 +7,15 @@
 
 |Category|Item|Inforamtion|
 |:--|:--|:--|
-| Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics, Clinical trials, Data science, Japanese history |
+| Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics,<br>Clinical trials, Clinical data science,<br>Python library evelopment,<br>Japanese history |
 || Language | Japanese, Python, English |
 || Where | Japan |
 || Favorite book | What Is Life? by Schrödinger |
 | Work | Current job | CRA / Clinical research associate |
-| Academic | Degree | Master of Engineering (Molecular biology) |
-|| School | Graduate school of Engineering, YOKOHAMA National University, Japan.|
-|| Subject of master's thesis | Protein-protein interaction site analysis to develop a drug for central nervous system injuries
+| Academic | Degree | 	Bachelor of Engineering (Life Science Program)<br>Master of Engineering (Chemical and Energy Engineering) |
+|| College | College of Engineering Science, YOKOHAMA National University, Japan. |
+|| Graduate school | Graduate school of Engineering, YOKOHAMA National University, Japan. |
+|| Subject of bachelor/master's thesis | Protein-protein interaction site analysis to develop a drug for central nervous system injuries
 | Tool | Python | From 2014 |
 || R | Learned from 2012 to 2014, from 2023 |
 || Editor | Visual Studio Code |
@@ -32,7 +33,7 @@ I have published the following libraries and notebooks. Please collaborate with 
 - Kaggle Notebook: [COVID-19 data with SIR model](https://www.kaggle.com/lisphilar/covid-19-data-with-sir-model)
 - Dataset: [COVID-19 dataset in Japan](https://github.com/lisphilar/covid19-sir/tree/main/data)
 
-### Scenario file of Sengokushi (Japanese)
+### Scenario files of Sengokushi (Japanese history, written in Japanese)
 
 - GitHub: [豊徳二重公儀の統合](https://github.com/lisphilar/sengokushi)
 
