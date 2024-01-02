@@ -3,7 +3,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/lisphilar/contributions.svg)](http://qiita.com/lisphilar)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/lisphilar/followers.svg)](http://qiita.com/lisphilar)
                 
-👨‍💼Work as a data anaylist in clinical data scieince field and 👨‍💻develop Python project, including CovsirPhy library, as a hobby.
+👨‍💼Work as a data anaylist in clinical data scieince field and 👨‍💻develop Python project, including CovsirPhy library, as a hobby.  
 Clinical research associate previously.
 
 Clinical data scientist in Japan. Python library developer.  
