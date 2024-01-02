@@ -6,7 +6,7 @@
 👨‍💼Work as a data anaylist in clinical data scieince field and 👨‍💻develop Python project, including CovsirPhy library, as a hobby.
 Clinical research associate previously.
 
-Data analyst in clinical data science. Python library developer.
+Clinical data scientist in Japan. Python library developer.
 分子生物学(2012-2018 M.Eng.), 生命情報科学(2014- 独学), 医薬品臨床試験(2018−2023 CRA), 医療データ解析(2024-).
 #CovsirPhy
 
