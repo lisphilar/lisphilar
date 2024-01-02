@@ -5,6 +5,10 @@
                 
 👨‍💼Work as a clinical research associate and 👨‍💻develop Python project, including CovsirPhy library, as a hobby.
 
+Clinical research associate in Japan. Python library developer.
+分子生物学(2012-2018 M.Eng.), データ解析(2014− 独学), 生命情報科学(2014- 独学), 医薬品臨床試験(2018− CRA).
+#CovsirPhy
+
 |Category|Item|Inforamtion|
 |:--|:--|:--|
 | Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics,<br>Clinical trials, Clinical data science,<br>Python library development,<br>Japanese history |
