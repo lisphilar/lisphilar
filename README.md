@@ -3,10 +3,11 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/lisphilar/contributions.svg)](http://qiita.com/lisphilar)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/lisphilar/followers.svg)](http://qiita.com/lisphilar)
                 
-👨‍💼Work as a clinical research associate and 👨‍💻develop Python project, including CovsirPhy library, as a hobby.
+👨‍💼Work as a data anaylist in clinical data scieince field and 👨‍💻develop Python project, including CovsirPhy library, as a hobby.
+Clinical research associate previously.
 
-Clinical research associate in Japan. Python library developer.
-分子生物学(2012-2018 M.Eng.), データ解析(2014− 独学), 生命情報科学(2014- 独学), 医薬品臨床試験(2018− CRA).
+Data analyst in clinical data science. Python library developer.
+分子生物学(2012-2018 M.Eng.), 生命情報科学(2014- 独学), 医薬品臨床試験(2018−2023 CRA), 医療データ解析(2024-).
 #CovsirPhy
 
 |Category|Item|Inforamtion|
@@ -15,7 +16,8 @@ Clinical research associate in Japan. Python library developer.
 || Language | Japanese, Python, English |
 || Where | Japan |
 || Favorite book | What Is Life? by Schrödinger |
-| Work | Current job | CRA / Clinical research associate |
+| Job | 2018/4-2023/12 | CRA / Clinical research associate |
+|| 2024/1-current | Data analyst in clinical data science |
 | Academic | Degree | 	Bachelor of Engineering (Life Science Program)<br>Master of Engineering (Chemical and Energy Engineering) |
 || College | College of Engineering Science, YOKOHAMA National University, Japan. |
 || Graduate school | Graduate school of Engineering, YOKOHAMA National University, Japan. |
