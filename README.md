@@ -10,6 +10,20 @@ Clinical data scientist in Japan. Python library developer.
 分子生物学(2012-2018 M.Eng.), 生命情報科学(2014- 独学), 医薬品臨床試験(2018−2023 CRA), 医療データ解析(2024-).  
 #CovsirPhy
 
+<a
+id="cy-effective-orcid-url"
+class="underline"
+ href="https://orcid.org/0009-0001-6973-9052"
+ target="orcid.widget"
+ rel="me noopener noreferrer"
+ style="vertical-align: top">
+ <img
+    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+    style="width: 1em; margin-inline-start: 0.5em"
+    alt="ORCID iD icon"/>
+  https://orcid.org/0009-0001-6973-9052
+</a>
+
 |Category|Item|Inforamtion|
 |:--|:--|:--|
 | Info | Keyword | Molecular biology, Neurochemistry, Bioinformatics,<br>Clinical trials, Clinical data science,<br>Python library development,<br>Japanese history |
