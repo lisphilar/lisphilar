@@ -37,7 +37,7 @@ class="underline"
 || Graduate school | Graduate school of Engineering, YOKOHAMA National University, Japan. |
 || Subject of bachelor/master's thesis | Protein-protein interaction site analysis to develop a drug for central nervous system injuries
 | Tool | Python | From 2014 |
-|| R | Learned from 2012 to 2014, from 2023 |
+|| R | Learned from 2012 to 2014, Using from 2024 |
 || Editor | Visual Studio Code |
 || Note taking | Obsidian, Google Colaboratory |
 || OS | Windows / Windows subsystem for Linux |
