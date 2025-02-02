@@ -30,8 +30,8 @@ class="underline"
 || Language | Japanese, Python, English |
 || Where | Japan |
 || Favorite book | What Is Life? by Schrödinger |
-| Job | 2018/4-2023/12 | CRA / Clinical research associate |
-|| 2024/1-current | Data analyst in clinical data science |
+| Job | Apr2018-Dec2023 | CRA / Clinical research associate |
+|| Jan2024-current | Data analyst in clinical data science |
 | Academic | Degree | 	Bachelor of Engineering (Life Science Program)<br>Master of Engineering (Chemical and Energy Engineering) |
 || College | College of Engineering Science, YOKOHAMA National University, Japan. |
 || Graduate school | Graduate school of Engineering, YOKOHAMA National University, Japan. |
